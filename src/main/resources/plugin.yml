@@ -1,0 +1,4 @@
+name: Regen
+version: 1.0
+main: rip.kits.regen.Regen
+author: Noxiuam
